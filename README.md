@@ -44,59 +44,69 @@ Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC
 * 🦸 Endorse me / Leave a Recommendation on Linkedin [@kenllyacosta](https://www.linkedin.com/in/kenllyacosta)
 * 📫 Follow me on Twitter [@kenllyacosta](https://twitter.com/KenllyAcosta)
 * 🧧 Suscribe on Youtube [@kenllyacosta](http://www.youtube.com/user/kenllyacosta?sub_confirmation=1)
-* 😄 Career Aim - Work Abroad, Probably in America/ Europe with a global team for a cool Product!
+* 😄 Career Aim - Work Abroad, Probably in America/Europe with a global team for a cool Product!
 
+---
 
-#
-
-<div align="center">
-  <b>Professional skills</b>
-</div>
-
-<p>  
-<img style="display: block; margin: auto; width:50px;" alt=".NET Core" src="https://camo.githubusercontent.com/9cc77120b80abcd6bfcdc8f426f3a58621e7b64cc40520ad14ab73c7835279b2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65652f2e4e45545f436f72655f4c6f676f2e737667">
-  
-  <img style="display: block; margin: auto; width:105px;" alt=".NET" src="https://camo.githubusercontent.com/89ee56e4197baad0b23efbc6b42d2f39a78c1af32628131ab6c2b03b251c321e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f746e65742f646f746e65742d617232312e737667">
-  
-  <img style="display: block; margin: auto; width:55px;" alt="Blazor" src="https://camo.githubusercontent.com/32632ef4e627daf84ab61f9ebb740aa1d0a8253dbb49763a9b75d1c68c38c73a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64302f426c617a6f722e706e67">
-  
-   <img style="display: block; margin: auto; width:110px;" alt="TypeScript" src="https://camo.githubusercontent.com/4c26b04cc5bd7e79be56db93623fba40f5bf1973dbb29750bde0c33bf59dce16/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d617232312e737667">
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
 </p>
 
-#
-
-<!-- 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Raymo111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
--->
-
-<div align="center">
-  <b>Languages and Technologies</b>
-</div>
-
-<p>
-<img style="display: block; margin: auto; width:50px;" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
-
-  <img style="display: block; margin: auto; width:50px;" alt="JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  
-<img style="display: block; margin: auto; width:55px;" alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-  
-  <img style="display: block; margin: auto; width:60px;" alt="Azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png">
-  
-  <img style="display: block; margin: auto; width:60px;" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  
-  <img style="display: block; margin: auto; width:60px;" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  
-   <img style="display: block; margin: auto; width:90px;" alt="MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<p align="center">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
+  </a> 
+  <a href="https://angular.io">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+  </a>  
+ <a href="https://reactjs.org/">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://www.github.com">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.git.com">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
-#
-[![kenlly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenllyacosta&show_icons=true&theme=buefy)](https://github.com/kenllyacosta/github-readme-stats)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenllyacosta&layout=compact)](https://github.com/kenllyacosta/github-readme-stats)
+---
 
-<!--
-#
-![Metrics](https://metrics.lecoq.io/kenllyacosta?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
--->
+<div align="center">
+  <strong>Languages and Technologies</strong>
+</div>
+<br/>
+
+<p align="center"> 
+<img alt="csharp" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img alt="dotnet" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
+<img alt="azure" width="120px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" />
+<img alt="Angular" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> 
+</p>
+
+---
+<a href="https://github.com/kenllyacosta">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenllyacosta&show_icons=true&theme=light&line_height=27" alt="kenllyacosta's github stats"/>
+</a>
+
+---
+
+<a href="https://github.com/kenllyacosta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenllyacosta&theme=light&hide_langs_below=1" />
+</a>
