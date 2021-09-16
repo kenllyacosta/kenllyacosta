@@ -2,11 +2,17 @@
 
 ## I'm software architect, developer and teacher.
 
+<div align="center">
+  <br/>
+</div>
+
 > Software Architect with more than 6 years of experience developing software with .NET technologies and low code
 like Power Platform, certified by Microsoft. I have been using C#, JavaScript, jQuery, and Bootstrap to develop
 enterprise applications for companies. I have helped to migrate old systems and databases to newer. Experience
 developing REST APIs and enjoy the process to make them. I am a self-taught person with the ability and desire to
 learn and experiment with new technologies and challenges.
+
+ <br/>
 
 I've been working with ASP.NET MVC, .NET Core, Elmah, .NET 5, C#, MediatR, CQRS, SOLID, Fluent Validation, IoC, Clean Architecture,
 Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC/POS Commands, MS SQL Server.
@@ -64,3 +70,8 @@ Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC
   
    <img style="display: block; margin: auto; width:90px;" alt="MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </p>
+
+#
+[![kenlly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenllyacosta&show_icons=true&theme=buefy)](https://github.com/kenllyacosta/github-readme-stats)
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenllyacosta&layout=compact)](https://github.com/kenllyacosta/github-readme-stats)
