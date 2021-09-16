@@ -2,8 +2,23 @@
 
 ## I'm software architect, developer and teacher.
 
-![](https://komarev.com/ghpvc/?username=kenllyacosta)
-
+<p align="center"> 
+ <a href="https://twitter.com/kenllyacosta" alt="mukesh's twitter">
+   <img src="https://img.shields.io/badge/-@kenllyacosta-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ </a>
+ <a href="https://github.com/kenllyacosta" alt="kenllyacosta's github">
+   <img src="https://img.shields.io/badge/-@kenllyacosta-%23181717?style=flat-square&logo=github" />
+ </a>
+ <a href="https://www.linkedin.com/in/kenllyacosta" alt="kenllyacosta's linkedin">
+   <img src="https://img.shields.io/badge/-kenllyacosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenllyacosta" />
+ </a> 
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=kenllyacosta" />
+ </a>
+ <a>
+   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kenllyacosta&color=00df00" />
+ </a>
+</p>
 
 > Software Architect with more than 6 years of experience developing software with .NET technologies and low code
 like Power Platform, certified by Microsoft. I have been using C#, JavaScript, jQuery, and Bootstrap to develop
@@ -50,6 +65,12 @@ Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC
 
 #
 
+<!-- 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Raymo111)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
+-->
+
 <div align="center">
   <b>Languages and Technologies</b>
 </div>
@@ -74,3 +95,8 @@ Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC
 [![kenlly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenllyacosta&show_icons=true&theme=buefy)](https://github.com/kenllyacosta/github-readme-stats)
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenllyacosta&layout=compact)](https://github.com/kenllyacosta/github-readme-stats)
+
+<!--
+#
+![Metrics](https://metrics.lecoq.io/kenllyacosta?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+-->
