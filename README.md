@@ -23,7 +23,8 @@ Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC
 
 * 🦸 Endorse me / Leave a Recommendation on Linkedin [@kenllyacosta](https://www.linkedin.com/in/kenllyacosta)
 * 📫 Follow me on Twitter [@kenllyacosta](https://twitter.com/KenllyAcosta)
-* 😄 Career Aim - Work Abroad, Probably in Singapore / Europe with a global team for a cool Product!
+* 🧧 Suscribe on Youtube [@kenllyacosta](http://www.youtube.com/user/kenllyacosta?sub_confirmation=1)
+* 😄 Career Aim - Work Abroad, Probably in America/ Europe with a global team for a cool Product!
 
 
 #
