@@ -2,9 +2,8 @@
 
 ## I'm software architect, developer and teacher.
 
-<div align="center">
-  <br/>
-</div>
+![](https://komarev.com/ghpvc/?username=kenllyacosta)
+
 
 > Software Architect with more than 6 years of experience developing software with .NET technologies and low code
 like Power Platform, certified by Microsoft. I have been using C#, JavaScript, jQuery, and Bootstrap to develop
