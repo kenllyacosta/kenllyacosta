@@ -110,3 +110,8 @@ Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC
 <a href="https://github.com/kenllyacosta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenllyacosta&theme=light&hide_langs_below=1" />
 </a>
+
+---
+<p align="left">  
+  <a href="https://github.com/kenllyacosta"><img width="800" src="https://github-profile-trophy.vercel.app/?username=kenllyacosta&row=1&column=5">
+</p>
