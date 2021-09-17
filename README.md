@@ -32,7 +32,7 @@ I've been working with ASP.NET MVC, .NET Core, Elmah, .NET 5, C#, MediatR, CQRS,
 Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC/POS Commands, MS SQL Server.
 
 - 🔭 I’m currently working on .NET Ecosystem
-- 🌱 I’m currently learning Clean chitecture
+- 🌱 I’m currently learning Clean architecture and Microservices
 - 👯 I’m looking to collaborate on **GitHub** or **offline**!
 - 💬 Ask me about .Net or anyother tech related stuff
 - 📫 How to reach me: [Twitter](https://twitter.com/KenllyAcosta) | [Linkedin](https://www.linkedin.com/in/kenllyacosta)
