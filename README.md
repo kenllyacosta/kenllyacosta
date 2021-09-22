@@ -20,11 +20,7 @@
  </a>
 </p>
 
-> Software Architect with more than 6 years of experience developing software with .NET technologies and low code
-like Power Platform, certified by Microsoft. I have been using C#, JavaScript, jQuery, and Bootstrap to develop
-enterprise applications for companies. I have helped to migrate old systems and databases to newer. Experience
-developing REST APIs and enjoy the process to make them. I am a self-taught person with the ability and desire to
-learn and experiment with new technologies and challenges.
+> Software Architect with more than 6 years of experience developing software with .NET technologies and low code like Power Platform, certified by Microsoft. I have been using C#, JavaScript, jQuery, and Bootstrap to develop enterprise applications for companies. I have helped to migrate old systems and databases to newer ones. Experience developing REST APIs and enjoy the process to make them. I am a self-taught person with the ability and desire to learn and experiment with new technologies and challenges.
 
  <br/>
 
