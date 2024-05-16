@@ -1,6 +1,6 @@
 ### Hi there, 👋 I'm Kenlly Acosta
 
-## I'm software architect, developer and teacher.
+## I'm software architect, developer, CTF Player and teacher.
 
 <p align="center"> 
  <a href="https://twitter.com/kenllyacosta" alt="mukesh's twitter">
