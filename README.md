@@ -25,7 +25,7 @@
  <br/>
 
 I've been working with ASP.NET MVC, .NET Core, Elmah, .NET 5, OAuth y OpenID Connect, DevOps, C#, MediatR, CQRS, SOLID, Fluent Validation, IoC, Clean Architecture,
-Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC/POS Commands, MS SQL Server.
+Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC/POS Commands, MS SQL Server, Python. CTF Player.
 
 - 🔭 I’m currently working on .NET Ecosystem
 - 🌱 I’m currently learning Clean architecture and Microservices
